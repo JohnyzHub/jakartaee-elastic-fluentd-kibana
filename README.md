@@ -51,3 +51,11 @@ http://localhost:5601/
 
 Once the elastic-kibana ui appears, choose 'Discover' link from the left menu panel, you should be asked to create an index.
 
+![image](https://github.com/JohnyzHub/jakartaee-elastic-fluentd-kibana/assets/17306379/94a6ccd9-0d78-464c-9164-a3ef14c8cadd)
+
+
+
+![image](https://github.com/JohnyzHub/jakartaee-elastic-fluentd-kibana/assets/17306379/a34f93c4-1df1-4e96-87fc-abdf84571124)
+
+![image](https://github.com/JohnyzHub/jakartaee-elastic-fluentd-kibana/assets/17306379/7ff40733-33e3-4775-9488-968d773b1ed1)
+
