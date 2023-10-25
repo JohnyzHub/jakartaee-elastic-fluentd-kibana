@@ -51,4 +51,3 @@ http://localhost:5601/
 
 Once the elastic-kibana ui appears, choose 'Discover' link from the left menu panel, you should be asked to create an index.
 
-
